@@ -45,4 +45,5 @@ class SongDetail {
       comments: (json['comments'] as List).map((e) => Comment.fromJson(e)).toList(),
     );
   }
+  
 }
