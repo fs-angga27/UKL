@@ -1,1 +1,5 @@
 ![Login](Hasil/login.png)
+![Playlist](Hasil/playlist.png)
+![List](Hasil/list.png)
+![Detail](Hasil/detail.png)
+![Add Song](Hasil/addsong.png)
